@@ -17,7 +17,7 @@ function Showcase(props) {
               data-bs-target="#enroll"
             >Start The Enrollment</button>
             </div>
-            <img className="img-fluid w-50 d-none d-sm-block" src='/images/showcase.svg' alt="show_case_image"/>
+            <img className="img-fluid w-50 d-none d-sm-block" src='images/showcase.svg' alt="show_case_image"/>
           </div>
           </div>
       </section>
