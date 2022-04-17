@@ -1,6 +1,6 @@
 {
   "homepage": "https://Bahubaliak.github.io/FrontendBootcamp",
-  "name": "bootstrap-practice",
+  "name": "bootstrap-practice", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
