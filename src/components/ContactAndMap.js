@@ -47,7 +47,7 @@ const ContactAndMap = (props) => {
             <div class="col-md mt-2 map-image-container">
               <img
                 className="map-image" 
-                src="/images/bangalore.jpg" 
+                src="images/bangalore.jpg" 
                 alt="bangalore"/>
             </div>
           </div>

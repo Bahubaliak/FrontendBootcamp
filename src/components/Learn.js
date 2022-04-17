@@ -7,7 +7,7 @@ function Learn(props) {
         <div className="container">
           <div className="row align-items-center justify-content-between">
             <div className="col-md">
-              <img src="/images/fundamentals.svg" class="img-fluid" alt="" />
+              <img src="images/fundamentals.svg" class="img-fluid" alt="" />
             </div>
             <div className="col-md p-3 p-lg-5">
               <h2>
@@ -53,7 +53,7 @@ function Learn(props) {
               </a>
             </div>
             <div className="col-md">
-              <img src="/images/react.svg" class="img-fluid" alt="" />
+              <img src="images/react.svg" class="img-fluid" alt="" />
             </div>
           </div>
         </div>
